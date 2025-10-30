@@ -1,4 +1,4 @@
-**NoSyncFrameWrite  v1.0.0**
+**NoSyncFrameWrite  v2.0.0**
 
 No Sync Concurrent Frame Buffer Update Demonstration
 
@@ -10,7 +10,7 @@ No Sync Concurrent Frame Buffer Update Demonstration
 
 **Overview**
 
-This repository demonstrates a concurrent frame buffer update technique implemented in C++20. It utilizes multiple threads to efficiently modify a large frame buffer without the need for synchronization primitives like mutexes. This can potentially improve performance in applications dealing with real-time graphics, animations, or simulations.
+This repository demonstrates a concurrent frame buffer update technique implemented in C++23. It utilizes multiple threads to efficiently modify a large frame buffer without the need for synchronization primitives like mutexes. This can potentially improve performance in applications dealing with real-time graphics, animations, or simulations.
 
 **Note:** This is a demonstration and not intended as a production-ready library.
 
